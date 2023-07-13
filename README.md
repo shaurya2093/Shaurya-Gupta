@@ -12,11 +12,10 @@
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left">
-<a href="https://linkedin.com/in/shaurya-gupta-0815bb229" target="blank"><img align="center" src="![image](https://github.com/shaurya2093/shaurya2093/assets/111460487/a3f81ebb-d8f0-48c7-94de-b53de354a687)
-" alt="shaurya-gupta-0815bb229" height="30" width="40" /></a>
-<a href="https://instagram.com/shaurya_g2093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaurya_g2093" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/guptashaurya507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="guptashaurya507" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@guptashaurya507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@guptashaurya507" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shaurya-gupta-0815bb229" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYAmK1DwklHTX6mzLKnY0KQnqZPzL4-rZP3A&usqp=CAU" alt="shaurya-gupta-0815bb229" height="30" width="40" /></a>
+<a href="https://instagram.com/shaurya_g2093" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/instagram-social-media-icon-gradient-social-media-logo_197792-4682.jpg" alt="shaurya_g2093" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/guptashaurya507" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8OL60SnVwlIvfHqeYHIpaERdsLpI8ognvRHXYfeTv9OCU_6AXwBttLLEYhnyq2WW1400&usqp=CAU" alt="guptashaurya507" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@guptashaurya507" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3reTu8yu0qxZ5-hakVfm8rfoEnG0-3XYppU5TEhVcr_hg9TXXS5c4OvwkbcCc5u4kWw&usqp=CAU" alt="guptashaurya507?hr_r=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
