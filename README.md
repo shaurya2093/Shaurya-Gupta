@@ -8,6 +8,9 @@
 - 📫 How to reach me **guptashaurya507@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 <p align="left">
 <a href="https://linkedin.com/in/shaurya-gupta-0815bb229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurya-gupta-0815bb229" height="30" width="40" /></a>
 <a href="https://instagram.com/shaurya_g2093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaurya_g2093" height="30" width="40" /></a>
