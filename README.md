@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaurya Gupta</h1>
-<h3 align="center">A passionate cloud learner from India.</h3>
+<h3 align="center">A passionate cloud enthusiast from India.</h3>
 
 - 🌱 I’m currently learning **Cloud Computing and DevOps**
-
-- 🤝 I’m looking for help with **DevOps**
 
 - 📫 How to reach me **guptashaurya507@gmail.com**
 
