@@ -21,3 +21,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaurya2093&show_icons=true&locale=en&layout=compact" alt="shaurya2093" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaurya2093&show_icons=true&locale=en" alt="shaurya2093" /></p>
+<h2 align="center">Leetcode Info<h2>
+
+
+  
+<p align="center">
+  <a href="https://leetcode.com/guptashaurya507/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/guptashaurya507/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/guptashaurya507?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
